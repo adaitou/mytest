@@ -26,6 +26,7 @@ unm
 »á¼ÇGYRQGUHHWJPT
 
 HTFRYIQEO RUOPQIWOT 
+<<<<<<< .mine
 
 
 
@@ -34,6 +35,24 @@ HTFRYIQEO RUOPQIWOT
 
 
 
+
+
+
+
+
+
+
+>>>>>>> .theirs
+=======
+32436432
+
+324
+563
+6342
+5
+36
+32
+5
 
 
 
